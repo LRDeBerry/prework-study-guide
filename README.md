@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created for students going through boot camp. My motivation for completing this project is wanting to problem solve and create at the same time. I built this project because I want to learn a new skill for my love of developing and a career change. This solves my limited knowledge in the field and a great starting point to build for my future. This project has given me the chance to learn about HTML, CSS, JavaScript and basic principles of Web Development.
+This project was created for students going through boot camp. My motivation for completing this project is wanting to solve problems and to be creative with building various projects. I built this project because I wanted to learn a new skill and to push myself. Even with my limited knowledge in the field, this is a great starting point to build for the future. This project has given me the chance to learn about HTML, CSS, JavaScript and what it takes to be a full stack developer.
 
 ## Installation
 
